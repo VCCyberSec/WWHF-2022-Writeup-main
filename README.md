@@ -13,12 +13,13 @@ MetaCTF{str1ng_separ4ted_by_und3rscores_like_this}
 
 ## Solution
 Navigating to the hyperlink opens up a username / password prompt
-!images\Pasted image 20221013082552.png
+
+![](https://github.com/VCCyberSec/WWHF-2022-Writeup-main/blob/main/images/Pasted%20image%2020221013082552.png)
 
 Using the Firefox debugger, we can see that the password is stored within the metadata of the client in Base64 encoding.
 
-!images\Pasted image 20221013082934.png
+![](https://github.com/VCCyberSec/WWHF-2022-Writeup-main/blob/main/images/Pasted%20image%2020221013082934.png)
 
 Using Cyberchef, we are able to easily convert the Base64 text back into cleartext revealing the flag.
 
-!images\Pasted image 20221013083517.png
+![](https://github.com/VCCyberSec/WWHF-2022-Writeup-main/blob/main/images/Pasted%20image%2020221013083517.png)
