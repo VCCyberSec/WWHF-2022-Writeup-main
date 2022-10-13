@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "8458c14351097808",
+    "type": "split",
+    "children": [
+      {
+        "id": "d780d99ea78ddf4e",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Pasted image 20221013083517.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22212fd26ea3f83b",
+    "type": "split",
+    "children": [
+      {
+        "id": "386f5c43887efbc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83c1187b684c725f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "489b94b254585668",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef39e6994c0e22ef",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30ab72878f4554db",
+    "type": "split",
+    "children": [
+      {
+        "id": "4df0c46fa1c1e97a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12f9f6515e855df7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20221013083517.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "043db6da97fcb323",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20221013083517.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "347fb3bfecd80477",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fc59b1ca29c04ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20221013083517.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "83c1187b684c725f",
+  "lastOpenFiles": [
+    "Pasted image 20221013082934.png",
+    "Pasted image 20221013082552.png",
+    "Main.md",
+    "Pasted image 20221013082922.png",
+    "What's a CTF.md",
+    "2022-10-13.md"
+  ]
+}
