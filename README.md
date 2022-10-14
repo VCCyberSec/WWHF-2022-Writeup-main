@@ -1,4 +1,8 @@
 These are my write-ups for the WWHF 2022 CTF run on the MetaCTF platform.
+Competition was held on
+Wed, October 12th 5pm-9pm
+Thursday, October 13th 10am-6:30pm
+Friday, October 14th 9am-4pm
 
 # What's a CTF?
 >In a jeopardy-style CTF (Capture the Flag) competition, teams compete to solve challenges covering a variety of cybersecurity categories and topics. For each challenge, your goal is to find a "flag", which often looks like a *MetaCTF{str1ng_separ4ted_by_und3rscores_like_this}* (this is also the flag for this challenge). There are exceptions.
