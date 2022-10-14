@@ -16,8 +16,7 @@ MetaCTF{str1ng_separ4ted_by_und3rscores_like_this}
 > Have a great day! 
 
 ## Solution
-Navigating to the hyperlink opens up a username / password prompt
-Using the Firefox debugger, we can see that the password is stored within the metadata of the client in Base64 encoding.
+Navigating to the hyperlink opens up a username / password prompt. Using the Firefox debugger, we can see that the password is stored within the metadata of the client in Base64 encoding.
 
 ![](https://github.com/VCCyberSec/WWHF-2022-Writeup-main/blob/main/images/Pasted%20image%2020221013082934.png)
 
